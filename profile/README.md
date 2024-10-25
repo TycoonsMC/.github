@@ -9,8 +9,12 @@ The best Tycoons server in the world! Play with your friends and have fun!
 
 • Utopia Gens
 
+• Tidal Prisons
+
+• Lifesteal Red
+
 ## Links
-• [Discord](https://discord.gg/petsims)
+• [Discord](https://discord.gg/playtycoons)
 
 • Java: play.tycoons.gg
 
